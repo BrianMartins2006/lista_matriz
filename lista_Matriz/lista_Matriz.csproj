@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>lista_Matriz.Exercicio_1_e_2</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\12990980610\Downloads\lista de matrizes\Exercicio3.cs" Link="Exercicio3.cs" />
+    <Compile Include="C:\Users\12990980610\Downloads\lista de matrizes\Exercicio_1_e_2.cs" Link="Exercicio_1_e_2.cs" />
+  </ItemGroup>
+
+</Project>
